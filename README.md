@@ -2,8 +2,8 @@
 
 ### READ
 
-* [git 10a kimi history-ya kimi](https://githowto.com/)
-* [bu mənbədən Git quraşdırılması, Repozitarın yaradılması, İlkin quraşdırma, Dəyişikliklər edin bölmələrini oxuyun](https://training.github.com/downloads/az/github-git-cheat-sheet/)
+* [Git 10a kimi history-ya kimi](https://githowto.com/)
+* [Bu mənbədən Git quraşdırılması, Repoların yaradılması, İlkin quraşdırma, Dəyişikliklər edin bölmələrini oxuyun](https://training.github.com/downloads/az/github-git-cheat-sheet/)
 
 ### WATCH
 
